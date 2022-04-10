@@ -1,0 +1,4 @@
+logging.level:
+  com.example: debug
+  top.keyto: debug
+  org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerMapping: trace
